@@ -7,7 +7,7 @@ Content Management Tool is a web-based content management system developed as Ta
 HTML
 CSS
 JavaScript
-Installation
+
 
 Open the project folder in your preferred code editor.
 Open the content-management-tool.html file in a web browser.
